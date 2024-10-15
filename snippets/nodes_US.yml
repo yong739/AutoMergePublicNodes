@@ -393,58 +393,33 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国|@ripaojiedian
+  name: 11|美国 CloudFlare节点
   network: ws
-  port: '2086'
-  server: 104.19.51.232
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
+  port: 2095
+  server: 162.159.140.19
   tls: false
   type: vmess
-  uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
-      Host: ip005.dtku47.xyz
+      Host: ip2.6016725.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国2|@ripaojiedian
+  name: 11,12|github.com/freefq - 美国Fastly全球...
   network: ws
-  port: '2086'
-  server: 104.26.0.56
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
+  port: 443
+  server: gov.uk
+  tls: true
   type: vmess
-  uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339
+  uuid: 77848824-93b7-4b89-ffd0-e91afff406ce
   ws-opts:
     headers:
-      Host: ip14.freegradely.xyz
-    path: github.com/Alvin9999
+      Host: zheshiscp.com
+    path: /77848824
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国4|@ripaojiedian
-  network: ws
-  port: '2095'
-  server: cfcdn1.sanfencdn9.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: 75781b8f-db32-44b5-936c-0065a3064a98
-  ws-opts:
-    headers:
-      Host: us82pRzxDMb.fzbqfrse.xyz
-    path: /video/qYZue4zaWS
-- alterId: 0
-  cipher: auto
-  name: 12|github.com/freefq - 美国CloudFla...
+  name: 11,12|github.com/freefq - 美国CloudFla...
   network: ws
   port: 8080
   server: www.darkroom.lol
@@ -455,6 +430,33 @@ proxies:
     headers:
       Host: www.darkroom.lol
     path: /
+- alterId: 0
+  cipher: auto
+  name: '11|美国 CloudFlare节点 #2'
+  network: ws
+  port: 2095
+  server: 104.19.45.13
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: '11|美国 CloudFlare节点 #3'
+  network: ws
+  port: 2082
+  server: 162.159.140.91
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: '12|github.com/freefq - 美国CloudFla... #1'
@@ -485,19 +487,6 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 12|github.com/freefq - 美国Fastly全球...
-  network: ws
-  port: 443
-  server: gov.uk
-  tls: true
-  type: vmess
-  uuid: 77848824-93b7-4b89-ffd0-e91afff406ce
-  ws-opts:
-    headers:
-      Host: zheshiscp.com
-    path: /77848824
-- alterId: 0
-  cipher: auto
   name: '12|github.com/freefq - 美国CloudFla... #3'
   network: ws
   port: 8880
@@ -510,3 +499,13 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
+- alterId: 0
+  cipher: auto
+  name: 16|美国|@ripaojiedian
+  network: tcp
+  port: '50004'
+  server: 50004.baidu-cdn.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4df8aa8f-1fd6-414d-8d2b-66b6a01ba2a8

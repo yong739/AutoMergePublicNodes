@@ -1,56 +1,60 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港|@ripaojiedian
-  password: 6af517f6-bba2-42bc-a6db-b965af0f5d80
-  port: 33107
-  server: 14.29.215.158
+  name: 15|🇮🇹 意大利|@ripaojiedian
+  password: 8d4a8689-e8fd-4405-9834-3f812c528db0
+  port: 2098
+  server: f41.maryam1500.top
+  skip-cert-verify: false
+  sni: cloudflare.node-ssl.cdn-alibaba.com
   tfo: false
-  type: ss
+  tls: false
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇭🇰 香港2|@ripaojiedian
-  password: 15438e9a-682e-4883-a161-224f673962ea
-  port: 40000
-  server: cname-heyck2gkxig6ajkp.bestruisleipa.com
+  password: 69b103f6-2db0-452b-999e-06cb77b8021b
+  port: 29527
+  server: hzhz1.sssyun.xyz
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇭🇰 香港3|@ripaojiedian
-  password: 15438e9a-682e-4883-a161-224f673962ea
-  port: 40000
-  server: cnamepc03-ndtabspegg7plp3p.coffeehouse.wiki
+  password: b6979cfa-bab9-4303-b10c-cd350fbea326
+  port: 27263
+  server: gtm1.ktmwan.com
   tfo: false
   type: ss
-- client-fingerprint: chrome
-  name: 15|🇭🇰 香港4|@ripaojiedian
-  password: lNOcIAxy
-  port: 23731
-  server: 36.151.192.242
-  skip-cert-verify: true
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港5|@ripaojiedian
-  password: 63b37069-ade8-4d4c-a6dc-1161df539069
-  port: 13913
-  server: gdyddx500.xiyunchen.cn
-  tfo: false
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港6|@ripaojiedian
-  password: 15438e9a-682e-4883-a161-224f673962ea
-  port: 40000
-  server: cnamepc01-drwtbltc3xwmfzhd.coffeehouse.wiki
-  tfo: false
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港R|@ripaojiedian
-  password: hGkQ6915tD
-  port: 16088
-  server: 103.161.255.195
-  tfo: false
-  type: ss
+- alterId: 0
+  cipher: auto
+  name: 16|香港|@ripaojiedian
+  network: tcp
+  port: '50021'
+  server: 50021.baidu-cdn.top
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 4df8aa8f-1fd6-414d-8d2b-66b6a01ba2a8
+- alterId: 0
+  cipher: auto
+  name: 16|香港5|@ripaojiedian
+  network: tcp
+  port: '2902'
+  server: 143.92.42.65
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 640c1077-d10b-4225-a9fb-d3e9c3ce7a00
+- alterId: 0
+  cipher: auto
+  name: 16|香港6|@ripaojiedian
+  network: tcp
+  port: '12960'
+  server: z3.fragranceninja.com
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: a32313ad-5e39-4f9a-9cad-512041790050
