@@ -235,33 +235,51 @@ proxies:
   type: vmess
   uuid: b7c56170-edb4-4c4a-bb64-ed5ef40b8739
   ws-opts: {}
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: 11|0|🇺🇸1 |  1.1MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
+  name: 11|0|🇺🇸3 |  19.6MB/s
+  network: http
+  port: 8881
+  server: 66.42.86.202
   tls: false
   type: vmess
-  uuid: 7a990638-15e4-34f2-9866-9bfdd556d638
+  uuid: db5afae4-ac23-41a6-8378-f307a9a47436
+- alterId: 2
+  cipher: auto
+  name: 11|0|🇺🇸6 |  6.1MB/s
+  network: ws
+  port: 23617
+  server: 17.mamamajd.site
+  tls: false
+  type: vmess
+  uuid: efcadb62-c7bb-38f0-8eb9-47340ad9d0a7
   ws-opts:
     headers:
-      Host: 13.mamamajd.site
+      Host: 17.mamamajd.site
     path: /
 - alterId: 2
   cipher: auto
-  name: 11|0|🇺🇸5 |  1.1MB/s
+  name: 11|0|🇺🇸7 |  5.0MB/s
   network: ws
-  port: 22643
-  server: tk.hzlt.tkddns.xyz
-  servername: tk.hzlt.tkddns.xyz
-  tls: true
+  port: 23615
+  server: 15.mamamajd.site
+  tls: false
   type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  uuid: efcadb62-c7bb-38f0-8eb9-47340ad9d0a7
   ws-opts:
     headers:
-      Host: zxjp-c.tkong.cc
+      Host: 15.mamamajd.site
     path: /
+- alterId: 0
+  cipher: auto
+  name: 11,16|美国3|@ripaojiedian
+  network: tcp
+  port: '44447'
+  server: 38.147.161.47
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6f5637c1-2a46-4d3b-8257-7dc3a70ff1dd
 - alterId: 0
   cipher: auto
   name: 12|github.com/freefq - 美国CloudFla...
