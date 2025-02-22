@@ -237,6 +237,26 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
+  name: 11,16|美国2|@ripaojiedian
+  network: tcp
+  port: '13447'
+  server: 23.236.68.213
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 2e41fa05-75d0-4d8c-9e23-41e2e7a8fa9f
+- alterId: 0
+  cipher: auto
+  name: 11,16|美国3|@ripaojiedian
+  network: tcp
+  port: '31909'
+  server: 23.224.152.62
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: a5e99fc4-5b87-4312-aa8a-52cad1971b92
+- alterId: 0
+  cipher: auto
   name: 12|github.com/freefq - 美国CloudFla...
   network: ws
   port: 8080
@@ -311,13 +331,3 @@ proxies:
   server: 23.185.248.13
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  name: 16|美国3|@ripaojiedian
-  network: tcp
-  port: '31909'
-  server: 23.224.152.62
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: a5e99fc4-5b87-4312-aa8a-52cad1971b92
