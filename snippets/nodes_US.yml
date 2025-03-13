@@ -237,16 +237,16 @@ proxies:
   ws-opts: {}
 - alterId: 2
   cipher: auto
-  name: 11|2|🇺🇸4 |  6.0MB/s
+  name: 11|1|🇺🇸3 |  1.8MB/s
   network: ws
-  port: 23617
-  server: 17.mamamajd.site
+  port: 23613
+  server: 13.mamamajd.site
   tls: false
   type: vmess
-  uuid: 3b86f6be-950a-3018-846e-1e129d9c4bb6
+  uuid: cf21325c-a1e0-3d7d-8911-b52c2200f960
   ws-opts:
     headers:
-      Host: 17.mamamajd.site
+      Host: 13.mamamajd.site
     path: /
 - alterId: 0
   cipher: auto
@@ -316,3 +316,35 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国|@ripaojiedian
+  password: efanccyun
+  plugin: obfs
+  plugin-opts:
+    host: 202502231733428-Ein9IQ2kBA.download.microsoft.com
+    mode: http
+  port: 8771
+  server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: rc4-md5
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国2|@ripaojiedian
+  password: efanccyun
+  plugin: obfs
+  plugin-opts:
+    host: 202502231733428-Ein9IQ2kBA.download.microsoft.com
+    mode: http
+  port: 8773
+  server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国3|@ripaojiedian
+  password: 9GP4N1O8WHSV99JV
+  port: 17002
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
