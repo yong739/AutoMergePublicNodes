@@ -528,43 +528,106 @@ proxies:
   ws-opts: {}
 - alterId: 2
   cipher: auto
-  name: 11|2|🇬🇧3 |  1.0MB/s
+  name: 11|2|🇮🇳2 |  3.5MB/s
   network: ws
-  port: 23605
-  server: 5.mamamajd.site
+  port: 23611
+  server: 11.mamamajd.site
   tls: false
   type: vmess
-  uuid: 308e66c9-5afe-31f7-a326-cf56e22cd5e2
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
   ws-opts:
     headers:
-      Host: 5.mamamajd.site
+      Host: 11.mamamajd.site
     path: /
 - alterId: 2
   cipher: auto
-  name: 11|2|🇩🇪1 |  1.8MB/s
+  name: 11|2|🇩🇪1 |  4.9MB/s
   network: ws
   port: 23618
   server: 18.mamamajd.site
   tls: false
   type: vmess
-  uuid: 308e66c9-5afe-31f7-a326-cf56e22cd5e2
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
   ws-opts:
     headers:
       Host: 18.mamamajd.site
     path: /
 - alterId: 2
   cipher: auto
-  name: 11|2|🇩🇪2 |  4.8MB/s
+  name: 11|2|🇹🇼6 |  1.3MB/s
+  network: ws
+  port: 23619
+  server: 19.mamamajd.site
+  tls: false
+  type: vmess
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
+  ws-opts:
+    headers:
+      Host: 19.mamamajd.site
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇬🇧2 |  3.9MB/s
+  network: ws
+  port: 23605
+  server: 5.mamamajd.site
+  tls: false
+  type: vmess
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
+  ws-opts:
+    headers:
+      Host: 5.mamamajd.site
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇩🇪5 |  3.2MB/s
   network: ws
   port: 23616
   server: 16.mamamajd.site
   tls: false
   type: vmess
-  uuid: 308e66c9-5afe-31f7-a326-cf56e22cd5e2
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
   ws-opts:
     headers:
       Host: 16.mamamajd.site
     path: /
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇩🇪8 |  5.7MB/s
+  network: ws
+  port: 443
+  server: 172.67.71.217
+  servername: 1t3chx0.zed23.web1337.net
+  tls: true
+  type: vmess
+  uuid: 9072d339-3885-4fe1-b0bc-29fa7505410e
+  ws-opts:
+    headers:
+      Host: 1t3chx0.zed23.web1337.net
+    path: /fixedfloati.cfd/linkwsd
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇬🇧5 |  3.9MB/s
+  network: ws
+  port: 23613
+  server: 13.mamamajd.site
+  tls: false
+  type: vmess
+  uuid: fa155c2f-c4a3-3fa2-ac58-8be6cb517a1a
+  ws-opts:
+    headers:
+      Host: 13.mamamajd.site
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 11,16|香港|@ripaojiedian
+  network: tcp
+  port: '53199'
+  server: 38.147.188.94
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 1bd1a355-cc70-47a4-b8ca-fb4e0a38fac6
 - alterId: 0
   cipher: auto
   name: 11,16|香港3|@ripaojiedian
@@ -585,16 +648,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 11,16|新加坡2|@ripaojiedian
-  network: tcp
-  port: '10710'
-  server: 120.198.71.184
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: CE361194-7D70-614C-780B-D3BDB61D0257
 - alterId: 0
   cipher: auto
   name: 11,16|日本A|@ripaojiedian
@@ -744,17 +797,22 @@ proxies:
   name: 15|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 43.201.85.71
+  server: 13.212.61.224
   tfo: false
   type: ss
-- cipher: aes-256-gcm
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港|@ripaojiedian
-  password: HM7BNW02BEB4N41T
-  port: 15004
-  server: 156.245.190.13
+  name: 15|🇹🇼 台湾2|@ripaojiedian
+  password: d7d8a8cd-239b-4b4e-93d9-dc3d89332ac9
+  port: 42765
+  server: wb.kaiqsz.com
+  skip-cert-verify: false
+  sni: mmbiz1.redapricotcloud.com
   tfo: false
-  type: ss
+  tls: false
+  type: trojan
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇭🇰 香港2|@ripaojiedian
@@ -763,33 +821,28 @@ proxies:
   server: 183.232.229.164
   tfo: false
   type: ss
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 15|🇸🇬 新加坡2|@ripaojiedian
-  password: '74260705449889500'
-  port: 10710
-  server: 120.198.71.184
-  skip-cert-verify: false
-  sni: grown-doberman.shiner427.skin
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: CE361194-7D70-614C-780B-D3BDB61D0257
 - cipher: chacha20-ietf
   client-fingerprint: chrome
   name: 15|🇭🇰 香港5|@ripaojiedian
   password: asd123456
   port: 8388
-  server: 103.36.90.195
+  server: 103.149.183.61
   tfo: false
   type: ss
-- cipher: chacha20-ietf
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港4|@ripaojiedian
+  password: RG7OQX7S5OIU3AL4
+  port: 15016
+  server: w72tapyb.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇭🇰 香港6|@ripaojiedian
-  password: asd123456
-  port: 8388
-  server: 103.149.182.191
+  password: 6U7N3FEJT62R1YRH
+  port: 15015
+  server: qh62onjn.slashdevslashnetslashtun.net
   tfo: false
   type: ss
 - cipher: aes-256-gcm
@@ -802,8 +855,8 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 15|🇹🇼 台湾2|@ripaojiedian
-  password: YY1SVLAEC2CXXGRW
+  name: 15|🇹🇼 台湾3|@ripaojiedian
+  password: RLPW44KAFL6K2LNA
   port: 21005
   server: 150.116.11.9
   tfo: false
@@ -814,7 +867,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-B3WS06QTgX.download.microsoft.com
+    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
     mode: http
   port: 8764
   server: cn01.efan8867801.xyz
@@ -826,7 +879,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-B3WS06QTgX.download.microsoft.com
+    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
     mode: http
   port: 8761
   server: cn01.efan8867801.xyz
@@ -843,25 +896,17 @@ proxies:
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇯🇵 日本4|@ripaojiedian
-  password: SP1ITNU7HMEIXN5U
+  password: CQ6E6S8LBSRMG7AF
   port: 18012
   server: 156.231.104.22
   tfo: false
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 15|🇯🇵 日本5|@ripaojiedian
-  password: LEUK3TF3CLKRNJWF
-  port: 18005
-  server: 156.231.104.15
-  tfo: false
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
   name: 15|🇸🇬 新加坡|@ripaojiedian
-  password: DHJHLK4FAV0ABTK6
-  port: 16003
-  server: 154.196.244.13
+  password: YH7ZS7TPHVH3226U
+  port: 16010
+  server: w72tapyb.slashdevslashnetslashtun.net
   tfo: false
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -878,7 +923,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-B3WS06QTgX.download.microsoft.com
+    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
     mode: http
   port: 8771
   server: cn01.efan8867801.xyz
@@ -890,31 +935,10 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-B3WS06QTgX.download.microsoft.com
+    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
     mode: http
   port: 8773
   server: cn01.efan8867801.xyz
-  tfo: false
-  type: ss
-- client-fingerprint: chrome
-  name: 15|🇺🇸 美国3|@ripaojiedian
-  network: ws
-  password: f2s539
-  port: 443
-  server: aws-us-dallas-1.f1cflined.com
-  skip-cert-verify: false
-  sni: aws-us-dallas-1.f1cflined.com
-  type: trojan
-  ws-opts:
-    headers:
-      Host: aws-us-dallas-1.f1cflined.com
-    path: /f1rocket
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 15|🇺🇸 美国4|@ripaojiedian
-  password: 0C8XQRGKD622MR0Y
-  port: 17001
-  server: 23.185.248.11
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -922,7 +946,7 @@ proxies:
   name: 15|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.229.99.127
+  server: 3.35.138.170
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -930,7 +954,7 @@ proxies:
   name: 15|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 52.195.175.110
+  server: 47.129.223.247
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -938,6 +962,6 @@ proxies:
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.112.18.99
+  server: 3.112.13.110
   tfo: false
   type: ss
