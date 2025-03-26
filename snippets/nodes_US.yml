@@ -237,16 +237,17 @@ proxies:
   ws-opts: {}
 - alterId: 2
   cipher: auto
-  name: 11|2|🇺🇸12 |  2.4MB/s
+  name: 11|2|🇺🇸3 |  2.3MB/s
   network: ws
-  port: 23615
-  server: 15.mamamajd.site
-  tls: false
+  port: 22642
+  server: tk.hzlt.tkddns.xyz
+  servername: tk.hzlt.tkddns.xyz
+  tls: true
   type: vmess
-  uuid: e90ac031-5434-3fd4-ac18-8c75b17bd63d
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: 15.mamamajd.site
+      Host: zxjp-b.tkong.cc
     path: /
 - alterId: 0
   cipher: auto
@@ -322,7 +323,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
+    host: 202503170996717-JTU8BAQVaE.download.microsoft.com
     mode: http
   port: 8771
   server: cn01.efan8867801.xyz
@@ -334,9 +335,17 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-V0ONnI0Viy.download.microsoft.com
+    host: 202503170996717-JTU8BAQVaE.download.microsoft.com
     mode: http
   port: 8773
   server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国5|@ripaojiedian
+  password: d8285a86cdb003de
+  port: 16112
+  server: 46.17.40.113
   tfo: false
   type: ss
