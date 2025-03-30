@@ -237,47 +237,201 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|2|🇺🇸13 |  6.0MB/s
-  network: tcp
-  port: 41068
-  server: ttsh.xissyun.com
-  tls: false
-  type: vmess
-  uuid: 46d0c7e4-b94e-414b-810c-d281190c9535
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国3|@ripaojiedian
+  name: 11|1|🇺🇸2 |  1.7MB/s
   network: ws
-  port: '420'
-  server: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
+  port: 443
+  server: 104.21.112.1
+  servername: us7-03.890624.xyz
+  tls: true
   type: vmess
-  uuid: 117fc3d8-fd04-11ed-b345-f23c93136cb3
+  uuid: 4d04b30c-ef7b-4a07-8f9e-f581ec171f8a
   ws-opts:
     headers:
-      Host: 0e1f11d2-stw740-sy3miy-3kis.fmt2-us.sghuawei.com
-    path: /
-- alterId: 2
+      Host: us7-03.890624.xyz
+    path: /bua2hMcbA8wMzbGFtV
+- alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|美国5|@ripaojiedian
+  name: 11|1|🇺🇸4 |  1.8MB/s
   network: ws
-  port: '420'
-  server: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
+  port: 8443
+  server: 14.102.229.82
+  servername: lax1.ibgfw.top
+  tls: true
   type: vmess
-  uuid: 6e28d086-f1bd-11ed-9ebc-f23c93665044
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
   ws-opts:
     headers:
-      Host: 494a196c-stucg0-t16qfc-3ge3.fmt2-us.sghuawei.com
-    path: /
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸5 |  1.1MB/s
+  network: ws
+  port: 8443
+  server: 185.176.26.209
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸6 |  1.1MB/s
+  network: ws
+  port: 8443
+  server: 5.10.246.166
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸10 |  1.0MB/s
+  network: ws
+  port: '8443'
+  server: 92.53.188.185
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸12 |  1.5MB/s
+  network: ws
+  port: '8443'
+  server: 185.238.228.41
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸14 |  2.0MB/s
+  network: ws
+  port: 443
+  server: us10-09.852224.ggff.net
+  servername: us10-09.852224.ggff.net
+  tls: true
+  type: vmess
+  uuid: 576c81b6-4976-4fe3-b1a9-05a9c302e98e
+  ws-opts:
+    headers:
+      Host: us10-09.852224.ggff.net
+    path: /SNwNdunw28lVztopw90eoXel
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸15 |  2.9MB/s
+  network: ws
+  port: 8443
+  server: 77.232.140.180
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸17 |  4.8MB/s
+  network: ws
+  port: '8443'
+  server: 94.242.230.119
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸18 |  1.9MB/s
+  network: ws
+  port: 8443
+  server: 188.244.122.249
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸21 |  1.1MB/s
+  network: ws
+  port: 8443
+  server: 188.164.248.120
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸22 |  2.5MB/s
+  network: ws
+  port: 8443
+  server: 89.116.46.96
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸24 |  5.4MB/s
+  network: ws
+  port: 443
+  server: US7-03.890624.xYz
+  servername: US7-03.890624.xYz
+  tls: true
+  type: vmess
+  uuid: 4d04b30c-ef7b-4a07-8f9e-f581ec171f8a
+  ws-opts:
+    path: /bua2hMcbA8wMzbGFtV
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸25 |  1.4MB/s
+  network: ws
+  port: 8443
+  server: 45.205.0.22
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    headers:
+      Host: lax1.ibgfw.top
+    path: /xrenvws
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸31 |  1.8MB/s
+  network: ws
+  port: 8443
+  server: 89.116.180.69
+  servername: lax1.ibgfw.top
+  tls: true
+  type: vmess
+  uuid: 191babc5-2aaf-4fe5-a563-f14244aefb4e
+  ws-opts:
+    path: /xrenvws
 - alterId: 0
   cipher: auto
   name: 12|github.com/freefq - 美国CloudFla...
@@ -368,5 +522,21 @@ proxies:
     mode: http
   port: 8773
   server: cn01.efan8867801.xyz
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国3|@ripaojiedian
+  password: ZJCCR003R9N9XUY1
+  port: 20032
+  server: 147.78.3.137
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇺🇸 美国4|@ripaojiedian
+  password: JU8G16JUJ67Q618R
+  port: 17008
+  server: ti3hyra4.slashdevslashnetslashtun.net
   tfo: false
   type: ss
