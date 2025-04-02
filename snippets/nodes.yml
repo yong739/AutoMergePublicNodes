@@ -528,35 +528,170 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|2|🇸🇬1 |  6.1MB/s
-  network: tcp
-  port: 3683
-  server: 4f4f231e-su7xc0-su1oku-2gok.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: 17cdeb6c-f046-11ee-bdac-f23c93141fad
-- alterId: 2
-  cipher: auto
-  name: 11|2|🇺🇸8 |  2.1MB/s
+  client-fingerprint: chrome
+  name: 11,15,16|美国3|@ripaojiedian
   network: ws
-  port: 23615
-  server: 15.mamamajd.site
-  tls: false
+  port: '2053'
+  server: usa.visa.com
+  servername: hax.hy.cloudns.ch
+  skip-cert-verify: false
+  tfo: false
+  tls: true
   type: vmess
-  uuid: da339ed4-5245-3d02-b0bc-1e0b2cf98aa1
+  uuid: d79261b1-b706-49f6-b39d-af2a0b8ebac5
   ws-opts:
     headers:
-      Host: 15.mamamajd.site
-    path: /
+      Host: hax.hy.cloudns.ch
+    path: d79261b1-b706-49f6-b39d-af2a0b8ebac5-vm
 - alterId: 0
   cipher: auto
-  name: 11|2|🇸🇬2 |  5.4MB/s
+  name: 11|1|🌀2-SE |  1.1MB/s
+  network: ws
+  port: 2053
+  server: aryanews.onetwothree123.ir
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: f5183399-93ae-4e31-8e7c-48affcfcaab1
+  ws-opts:
+    headers:
+      Host: aryanews.onetwothree123.ir
+    path: /🆔@M3HDIO1
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇸🇬3 |  1.2MB/s
   network: tcp
   port: 3683
   server: 1387ebdd-su7b40-su6828-eme.b.fosant.com
   tls: false
   type: vmess
   uuid: 16d93f14-af0e-11ee-8ebe-f23c93136cb3
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇭🇰4 |  6.2MB/s
+  network: tcp
+  port: 10032
+  server: v2-hk4-zf.netcar.live
+  tls: false
+  type: vmess
+  uuid: 21ddbca6-a333-4aa1-9431-33725df1e85e
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇫🇷3 |  5.2MB/s
+  network: ws
+  port: 2082
+  server: 45.142.120.190
+  tls: false
+  type: vmess
+  uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be
+  ws-opts:
+    path: /az05.beyondy.cfd/link#
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸27 |  5.9MB/s
+  network: tcp
+  port: 34013
+  server: v2-us2-zx.netcar.live
+  tls: false
+  type: vmess
+  uuid: 9a037058-73a1-4fc3-973f-c73b1f612d81
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇨🇭2 |  5.0MB/s
+  network: tcp
+  port: 22324
+  server: 186.190.215.193
+  tls: false
+  type: vmess
+  uuid: 04621bae-ab36-11ec-b909-0242ac120002
+- alterId: 0
+  cipher: auto
+  name: 11|1|🌀8-ID |  1.1MB/s
+  network: tcp
+  port: 3854
+  server: v3-idnxyzz.netcar.live
+  tls: false
+  type: vmess
+  uuid: d4ef06ea-a561-4fb0-b790-10f860d72f0a
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇹🇼1 |  2.1MB/s
+  network: tcp
+  port: 3687
+  server: 681b338b-su9s00-t36qk2-cuof.a.fosant.com
+  tls: false
+  type: vmess
+  uuid: 4ac1098c-eff0-11ef-8543-f23c93136cb3
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇸🇬6 |  1.8MB/s
+  network: tcp
+  port: 3683
+  server: 098e0774-su7xc0-tcm6ys-deip.b.fosant.com
+  tls: false
+  type: vmess
+  uuid: 7a2512b4-09ee-11f0-8d46-f23c9313b177
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇧🇷1 |  1.3MB/s
+  network: ws
+  port: 8443
+  server: 144.22.216.68
+  tls: true
+  type: vmess
+  uuid: 2da74685-0427-4087-a62c-82d08b52a5f8
+  ws-opts:
+    headers:
+      Host: br3.vp1000.net
+    path: /pulicpDisney
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇸🇬7 |  1.7MB/s
+  network: tcp
+  port: 3683
+  server: a5944a92-su7b40-tclkqs-deip.b.fosant.com
+  tls: false
+  type: vmess
+  uuid: 7a2512b4-09ee-11f0-8d46-f23c9313b177
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇸🇬10 |  1.4MB/s
+  network: tcp
+  port: 3683
+  server: b268cf3c-su7xc0-swx10p-cw9v.b.fosant.com
+  tls: false
+  type: vmess
+  uuid: f39baabc-ef78-11ef-b714-f23c93136cb3
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇮🇳1 |  1.2MB/s
+  network: ws
+  port: 443
+  server: ip4-in4.vp1000.net
+  tls: true
+  type: vmess
+  uuid: 2da74685-0427-4087-a62c-82d08b52a5f8
+  ws-opts:
+    headers:
+      Host: ip4-in4.vp1000.net
+    path: /pulicfastpDisney
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
+  name: 11,15,16|香港|@ripaojiedian
+  network: ws
+  port: '8880'
+  server: 107.151.245.175
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: cd92310f-afcf-4861-ac10-aaa20aa2e0dc
+  ws-opts:
+    headers:
+      Host: www.bing.com
+    path: cd92310f-afcf-4861-ac10-aaa20aa2e0dc-vm
 - alterId: 0
   cipher: auto
   name: 11,16|香港3|@ripaojiedian
@@ -569,120 +704,6 @@ proxies:
   uuid: bfd93c5c-abc7-416a-a205-372d3db979a4
 - alterId: 0
   cipher: auto
-  name: 11|2|🇸🇬3 |  6.2MB/s
-  network: tcp
-  port: 3683
-  server: a5944a92-su7b40-tclkqs-deip.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: 7a2512b4-09ee-11f0-8d46-f23c9313b177
-- alterId: 2
-  cipher: auto
-  name: 11|2|🇩🇪5 |  4.9MB/s
-  network: ws
-  port: 23618
-  server: 18.mamamajd.site
-  tls: false
-  type: vmess
-  uuid: da339ed4-5245-3d02-b0bc-1e0b2cf98aa1
-  ws-opts:
-    headers:
-      Host: 18.mamamajd.site
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 11|2|🇬🇧2 |  3.3MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
-  tls: false
-  type: vmess
-  uuid: da339ed4-5245-3d02-b0bc-1e0b2cf98aa1
-  ws-opts:
-    headers:
-      Host: 13.mamamajd.site
-    path: /
-- alterId: 2
-  cipher: auto
-  name: 11|2|🇮🇳4 |  6.1MB/s
-  network: ws
-  port: 23611
-  server: 11.mamamajd.site
-  tls: false
-  type: vmess
-  uuid: da339ed4-5245-3d02-b0bc-1e0b2cf98aa1
-  ws-opts:
-    headers:
-      Host: 11.mamamajd.site
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇩🇪7 |  3.0MB/s
-  network: ws
-  port: 25241
-  server: cm.awslcn.info
-  tls: false
-  type: vmess
-  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇺🇸19 |  1.6MB/s
-  network: tcp
-  port: '35001'
-  server: 120.198.71.216
-  tls: false
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇸🇬8 |  6.6MB/s
-  network: tcp
-  port: 3683
-  server: b268cf3c-su7xc0-swx10p-cw9v.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: f39baabc-ef78-11ef-b714-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇸🇬10 |  6.0MB/s
-  network: tcp
-  port: 3683
-  server: 098e0774-su7xc0-tcm6ys-deip.b.fosant.com
-  tls: false
-  type: vmess
-  uuid: 7a2512b4-09ee-11f0-8d46-f23c9313b177
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇬🇧3 |  5.0MB/s
-  network: ws
-  port: 25240
-  server: cm1.awslcn.info
-  tls: false
-  type: vmess
-  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇮🇳5 |  4.3MB/s
-  network: ws
-  port: 25216
-  server: cm1.awslcn.info
-  tls: false
-  type: vmess
-  uuid: b784f479-32c2-4fa9-a6f9-0e8d3f8cb4ae
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇹🇼7 |  6.2MB/s
-  network: tcp
-  port: 3687
-  server: 681b338b-su9s00-t36qk2-cuof.a.fosant.com
-  tls: false
-  type: vmess
-  uuid: 4ac1098c-eff0-11ef-8543-f23c93136cb3
-- alterId: 0
-  cipher: auto
   name: 11,16|香港5|@ripaojiedian
   network: tcp
   port: '41002'
@@ -691,87 +712,6 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|香港6|@ripaojiedian
-  network: ws
-  port: '8443'
-  server: hk.ggpdx.ggff.net
-  servername: hk.ggpdx.ggff.net
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 0c08b87c-67d7-401e-93dc-7bcda12e795b
-  ws-opts:
-    headers:
-      Host: hk.ggpdx.ggff.net
-    path: 0c08b87c-67d7-401e-93dc-7bcda12e795b-vm
-- alterId: 0
-  cipher: auto
-  name: 11,16|香港9|@ripaojiedian
-  network: tcp
-  port: '4136'
-  server: ac9d3c3c-su2dc0-sv9ymy-dezg.d.volczijie.com
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 952f0a9a-097d-11f0-aa52-f23c93136cb3
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|日本3|@ripaojiedian
-  network: ws
-  port: '19608'
-  server: lc.loc.cc
-  servername: lc.loc.cc
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 3a5ca001-9884-4d96-a002-2b04f306747e
-  ws-opts:
-    headers:
-      Host: lc.loc.cc
-    path: 3a5ca001-9884-4d96-a002-2b04f306747e-vm
-- alterId: 0
-  cipher: auto
-  name: 11,16|日本4|@ripaojiedian
-  network: tcp
-  port: '36001'
-  server: v2-hk2-zf2.netcar.live
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: f41a7211-3a16-4aa0-a3cf-0dd959b9ef1d
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 11,15,16|韩国|@ripaojiedian
-  network: ws
-  port: '443'
-  server: kr.ttcc.tech
-  servername: kr.ttcc.tech
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 41cfbd9d-d2da-4300-a142-b49068f7ad3d
-  ws-opts:
-    headers:
-      Host: kr.ttcc.tech
-    path: /41cfbd9d-d2da-4300-a142-b49068f7ad3d
-- alterId: 0
-  cipher: auto
-  name: 11,16|日本A|@ripaojiedian
-  network: kcp
-  port: '58490'
-  server: 8.209.203.88
-  servername: ''
-  tls: false
-  type: vmess
-  uuid: 551087e5-9a03-4634-9e7f-714133eb3ccb
 - alterId: 0
   cipher: auto
   name: 11,16|香港A|@ripaojiedian
@@ -911,48 +851,42 @@ proxies:
   name: 15|tg频道:@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.213.69.248
-  tfo: false
-  type: ss
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 15|🇭🇰 香港|@ripaojiedian
-  password: MQ6J7FHRWL2EBDKX
-  port: 15015
-  server: qh62onjn.slashdevslashnetslashtun.net
+  server: 43.203.206.73
   tfo: false
   type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
-  name: 15|🇯🇵 日本4|@ripaojiedian
-  password: 13c3cf97-5a4a-434f-880a-aecbd70c15bc
-  port: 36001
-  server: v2-hk2-zf2.netcar.live
+  name: 15|🇭🇰 香港5|@ripaojiedian
+  port: 41002
+  server: 120.232.153.40
   skip-cert-verify: false
-  sni: 7.qzhm8l42g1.xyz
   tfo: false
   tls: false
   type: vmess
-  uuid: f41a7211-3a16-4aa0-a3cf-0dd959b9ef1d
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇭🇰 香港2|@ripaojiedian
+  password: CDG9XK11MN9S70IY
+  port: 15008
+  server: w72tapyb.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇭🇰 香港4|@ripaojiedian
-  password: HU1AA5DVZP3V8PZD
+  password: QBUR7SN6CCSDQD9J
   port: 15004
   server: w72tapyb.slashdevslashnetslashtun.net
   tfo: false
   type: ss
-- cipher: aes-128-gcm
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 15|🇭🇰 香港8|@ripaojiedian
-  password: Sj10bnYDe7w6V29E
-  plugin: obfs
-  plugin-opts:
-    host: 4ec7af9f9f.m.ctrip.com
-    mode: http
-  port: 10001
-  server: south.inmysecretlife.xyz
+  name: 15|🇭🇰 香港6|@ripaojiedian
+  password: fa7336fd-365d-4bc2-a1f3-7233d6abdb05
+  port: 36222
+  server: rk1.nynode0.cc
   tfo: false
   type: ss
 - cipher: rc4-md5
@@ -961,7 +895,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-G8dQXiDzfv.download.microsoft.com
+    host: 202503170996717-uvymC2YEG6.download.microsoft.com
     mode: http
   port: 8766
   server: cn01.efan8867801.xyz
@@ -970,9 +904,25 @@ proxies:
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇯🇵 日本2|@ripaojiedian
-  password: QSM88IU0D1Y77F3O
+  password: 9X6HM83GN02K8GDR
+  port: 18005
+  server: 156.231.104.15
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 15|🇯🇵 日本3|@ripaojiedian
+  password: DXLMD9TRFJID5RBE
   port: 18003
   server: 156.231.104.13
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇯🇵 日本4|@ripaojiedian
+  password: c33861aa-18ce-4436-a3f5-81ff8f3c6e25
+  port: 48150
+  server: rk2.nynode0.cc
   tfo: false
   type: ss
 - cipher: rc4-md5
@@ -981,7 +931,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-G8dQXiDzfv.download.microsoft.com
+    host: 202503170996717-uvymC2YEG6.download.microsoft.com
     mode: http
   port: 8769
   server: cn01.efan8867801.xyz
@@ -990,7 +940,7 @@ proxies:
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇸🇬 新加坡|@ripaojiedian
-  password: GCXTUOMZIM3F6J96
+  password: 3IID3X30X5V41GUG
   port: 16001
   server: w72tapyb.slashdevslashnetslashtun.net
   tfo: false
@@ -998,9 +948,29 @@ proxies:
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇸🇬 新加坡2|@ripaojiedian
-  password: 9BUY3HH5FVDMCCH7
+  password: 73X9GBT73GSRS89R
   port: 16011
   server: w72tapyb.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 15|🇸🇬 新加坡3|@ripaojiedian
+  password: cfa82b34-bb9a-44e5-bb6c-e3df8284a070
+  port: 26712
+  server: rk2.nynode0.cc
+  tfo: false
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 15|🇸🇬 新加坡4|@ripaojiedian
+  password: Sj10bnYDe7w6V29E
+  plugin: obfs
+  plugin-opts:
+    host: 55417938a8.m.ctrip.com
+    mode: http
+  port: 10003
+  server: south.inmysecretlife.xyz
   tfo: false
   type: ss
 - cipher: rc4-md5
@@ -1009,7 +979,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-G8dQXiDzfv.download.microsoft.com
+    host: 202503170996717-uvymC2YEG6.download.microsoft.com
     mode: http
   port: 8776
   server: cn01.efan8867801.xyz
@@ -1021,7 +991,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503170996717-G8dQXiDzfv.download.microsoft.com
+    host: 202503170996717-uvymC2YEG6.download.microsoft.com
     mode: http
   port: 8771
   server: cn01.efan8867801.xyz
@@ -1032,7 +1002,7 @@ proxies:
   name: 15|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 43.201.54.89
+  server: 3.34.253.95
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -1040,7 +1010,7 @@ proxies:
   name: 15|🇯🇵 日本特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 44.247.247.209
+  server: 43.207.150.238
   tfo: false
   type: ss
 - cipher: aes-256-cfb
@@ -1048,6 +1018,6 @@ proxies:
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 3.36.26.148
+  server: 43.207.203.164
   tfo: false
   type: ss
