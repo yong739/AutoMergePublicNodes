@@ -5,6 +5,32 @@ proxies:
   port: 443
   server: 54.179.87.28
   type: ss
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇸🇬2 |  5.8MB/s
+  network: ws
+  port: 12883
+  server: gtm1.ktmwan.net
+  tls: false
+  type: vmess
+  uuid: 1bfc69ad-1855-4dfe-b169-886d7156e0f3
+  ws-opts:
+    headers:
+      Host: gtm1.ktmwan.net
+    path: /
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇸🇬4 |  6.3MB/s
+  network: ws
+  port: 23617
+  server: 17.mamamajd.site
+  tls: false
+  type: vmess
+  uuid: ab28a512-215f-34b4-a9bf-ffa17fcc80c7
+  ws-opts:
+    headers:
+      Host: 17.mamamajd.site
+    path: /
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 15|🇸🇬 新加坡|@ripaojiedian
@@ -26,6 +52,6 @@ proxies:
   name: 15|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.125.238.108
+  server: 52.194.243.103
   tfo: false
   type: ss
