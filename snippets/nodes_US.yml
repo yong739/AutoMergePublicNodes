@@ -237,6 +237,77 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
+  name: 11|2|🇺🇸1 |  5.9MB/s
+  network: ws
+  port: '80'
+  server: 104.18.10.143
+  tls: false
+  type: vmess
+  uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+  ws-opts:
+    path: /s15.html
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸10 |  5.6MB/s
+  network: ws
+  port: 80
+  server: 104.18.95.231
+  tls: false
+  type: vmess
+  uuid: 06135553-6f54-4d32-af08-83bc94823e7e
+  ws-opts:
+    headers:
+      Host: 550882644920872025041118280415969.s15.chibaba.filegear-sg.me
+    path: /s15.html
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇺🇸11 |  1.4MB/s
+  network: ws
+  port: '30829'
+  server: v29.heduian.link
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    path: /oooo
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸14 |  2.4MB/s
+  network: tcp
+  port: 5229
+  server: e890417c-svc1s0-t1bnjq-1krtb.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+- alterId: 0
+  cipher: auto
+  name: 11|2|🇺🇸39 |  2.5MB/s
+  network: ws
+  port: 443
+  server: 199.34.228.183
+  servername: 3sdfgvcxxx.938.pp.ua
+  tls: true
+  type: vmess
+  uuid: 0212fab5-e93c-4904-b7a8-187fd535f354
+  ws-opts:
+    headers:
+      Host: 3sdfgvcxxx.938.pp.ua
+    path: /P879mtCoHQqaWO67qEaMINZ1
+- alterId: 2
+  cipher: auto
+  name: 11|2|🇺🇸36 |  2.0MB/s
+  network: ws
+  port: 30808
+  server: v8.heduian.link
+  tls: false
+  type: vmess
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  ws-opts:
+    headers:
+      Host: v8.heduian.link
+    path: /oooo
+- alterId: 0
+  cipher: auto
   name: 11,16|美国|@ripaojiedian
   network: tcp
   port: '44015'
@@ -336,7 +407,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202504231516596-2ovXmdP1DN.download.microsoft.com
+    host: 202504241555326-E76HVtFSaq.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
