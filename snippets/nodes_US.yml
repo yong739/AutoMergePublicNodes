@@ -237,59 +237,48 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|1|🇺🇸6 |  5.7MB/s
-  network: tcp
-  port: 5229
-  server: e890417c-svc1s0-t1bnjq-1krtb.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸16 |  1.3MB/s
+  name: 11|1|🇺🇸8 |  6.0MB/s
   network: ws
-  port: '30808'
-  server: v8.heduian.link
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    path: /oooo
-- alterId: 0
-  cipher: auto
-  name: 11|1|🇺🇸17 |  5.5MB/s
-  network: tcp
-  port: 5228
-  server: 87b134e3-svc1s0-t28b6o-ef48.cu.plebai.net
-  tls: false
-  type: vmess
-  uuid: cb15123a-084c-11f0-8eab-f23c91cfbbc9
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸21 |  5.9MB/s
-  network: ws
-  port: 22642
-  server: tk.hzlt.tkddns.xyz
+  port: 443
+  server: u7.huvicloud.com
   tls: true
   type: vmess
-  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
-  ws-opts: {}
-- alterId: 2
-  cipher: auto
-  name: 11|1|🇺🇸30 |  3.1MB/s
-  network: ws
-  port: 30808
-  server: v8.heduian.link
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+  uuid: 7216ba26-d2bc-48f7-8b44-3b91c30cb6ab
   ws-opts:
     headers:
-      Host: v8.heduian.link
-    path: /oooo
+      Host: u7.huvicloud.com
+    path: /7216ba26-d2bc-48f7-8b44-3b91c30cb6ab
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸12 |  5.1MB/s
+  network: ws
+  port: 443
+  server: u2.huvicloud.com
+  servername: ''
+  tls: true
+  type: vmess
+  uuid: f07b9711-a6a4-4128-807d-fdb40dcaa488
+  ws-opts:
+    headers:
+      Host: u2.huvicloud.com
+    path: /c6ec090c-db51-4ad7-9cd4-9c827e52ea40
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸15 |  3.3MB/s
+  network: ws
+  port: 443
+  server: xcf029.facai2024.com
+  servername: xcf029.facai2024.com
+  tls: true
+  type: vmess
+  uuid: 9ce4526a-c500-4c66-99b0-048e4b6b5663
+  ws-opts:
+    headers:
+      Host: xcf029.facai2024.com
+    path: /9ce4526a
 - alterId: 2
   cipher: auto
-  name: 11|1|🇺🇸44 |  5.9MB/s
+  name: 11|1|🇺🇸18 |  2.8MB/s
   network: ws
   port: 22642
   server: tk.hzlt.tkddns.xyz
@@ -303,32 +292,84 @@ proxies:
     path: /
 - alterId: 0
   cipher: auto
-  name: 11|1|🇺🇸46 |  3.9MB/s
+  name: 11|1|🇺🇸20 |  5.7MB/s
   network: ws
   port: 443
-  server: 45.194.53.81
-  servername: ''
+  server: u7.huvicloud.com
+  servername: u7.huvicloud.com
   tls: true
   type: vmess
-  uuid: 0212fab5-e93c-4904-b7a8-187fd535f354
+  uuid: 7216ba26-d2bc-48f7-8b44-3b91c30cb6ab
   ws-opts:
-    headers:
-      Host: 3sdfgvcxxx.938.pp.ua
-    path: /P879mtCoHQqaWO67qEaMINZ1
+    path: /7216ba26-d2bc-48f7-8b44-3b91c30cb6ab
 - alterId: 2
   cipher: auto
-  name: 11|1|🇺🇸52 |  5.8MB/s
+  name: 11|1|🇺🇸24 |  4.8MB/s
   network: ws
-  port: 22643
+  port: 22641
   server: tk.hzlt.tkddns.xyz
-  servername: zxjp-c.tkong.cc
+  servername: tk.hzlt.tkddns.xyz
   tls: true
   type: vmess
   uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
   ws-opts:
     headers:
-      Host: zxjp-c.tkong.cc
+      Host: zxjp-a.tkong.cc
     path: /
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸27 |  4.2MB/s
+  network: ws
+  port: 443
+  server: new3.huvicloud.com
+  tls: true
+  type: vmess
+  uuid: a10476b9-1c07-4de3-9d84-c51d24be599f
+  ws-opts:
+    headers:
+      Host: new3.huvicloud.com
+    path: /a10476b9-1c07-4de3-9d84-c51d24be599f
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸28 |  5.2MB/s
+  network: tcp
+  port: 5228
+  server: 89936472-svdwg0-t28b6o-ef48.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: cb15123a-084c-11f0-8eab-f23c91cfbbc9
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸29 |  4.4MB/s
+  network: tcp
+  port: 5229
+  server: e890417c-svc1s0-t1bnjq-1krtb.cu.plebai.net
+  tls: false
+  type: vmess
+  uuid: 60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d
+- alterId: 2
+  cipher: auto
+  name: 11|1|🇺🇸36 |  1.2MB/s
+  network: ws
+  port: 22641
+  server: tk.hzlt.tkddns.xyz
+  tls: true
+  type: vmess
+  uuid: 98e96c9f-4bb3-39d4-9a2c-fac04257f7c7
+  ws-opts: {}
+- alterId: 0
+  cipher: auto
+  name: 11|1|🇺🇸46 |  3.7MB/s
+  network: ws
+  port: 443
+  server: u8.huvicloud.com
+  tls: true
+  type: vmess
+  uuid: 6796611b-260e-4d63-9016-20c27b12e420
+  ws-opts:
+    headers:
+      Host: u8.huvicloud.com
+    path: /6796611b-260e-4d63-9016-20c27b12e420
 - alterId: 0
   cipher: auto
   name: 11,16|美国|@ripaojiedian
@@ -430,7 +471,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202504241555326-E76HVtFSaq.download.microsoft.com
+    host: 202504251585498-RatgJ5qOIp.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
