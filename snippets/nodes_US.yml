@@ -1,7 +1,7 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #7'
+  name: '1,6|🇺🇸_US_美国 #3'
   network: ws
   port: 2086
   server: 104.19.38.62
@@ -12,7 +12,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #8'
+  name: '1,6|🇺🇸_US_美国 #4'
   network: ws
   port: 2086
   server: 104.19.47.122
@@ -34,7 +34,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #10'
+  name: '1,6|🇺🇸_US_美国 #6'
   network: ws
   port: 2086
   server: 104.19.46.36
@@ -51,7 +51,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #11'
+  name: '1,6|🇺🇸_US_美国 #7'
   network: ws
   port: 2086
   server: 104.20.25.146
@@ -68,7 +68,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #12'
+  name: '1,6|🇺🇸_US_美国 #8'
   network: ws
   port: 2086
   server: 104.19.21.230
@@ -90,7 +90,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #14'
+  name: '1,6|🇺🇸_US_美国 #10'
   network: ws
   port: 2052
   server: 104.19.46.123
@@ -107,7 +107,7 @@ proxies:
   type: ss
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #15'
+  name: '1,6|🇺🇸_US_美国 #11'
   network: ws
   port: 2086
   server: 104.19.51.232
@@ -118,7 +118,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #16'
+  name: '1,6|🇺🇸_US_美国 #12'
   network: ws
   port: 2086
   server: 104.19.46.233
@@ -129,7 +129,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #17'
+  name: '1,6|🇺🇸_US_美国 #13'
   network: ws
   port: 2086
   server: 104.19.46.59
@@ -139,7 +139,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #18'
+  name: '1,6|🇺🇸_US_美国 #14'
   network: ws
   port: 2086
   server: 104.19.46.27
@@ -150,7 +150,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '1,6|🇺🇸_US_美国 #19'
+  name: '1,6|🇺🇸_US_美国 #15'
   network: ws
   port: 2086
   server: 104.19.45.15
@@ -161,53 +161,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 2|🇺🇸_US_美国
-  network: ws
-  port: 2052
-  server: 104.16.38.71
-  tls: false
-  type: vmess
-  uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8
-  ws-opts:
-    headers:
-      Host: us6_0.wish.ml
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '2|🇺🇸_US_美国 #1'
-  network: ws
-  port: 2052
-  server: hk.wish.ml
-  tls: false
-  type: vmess
-  uuid: c286daa2-59de-455c-8de8-ec032b6ce2e8
-  ws-opts:
-    headers:
-      Host: us6_0.wish.ml
-    path: /
-- alterId: 0
-  cipher: auto
-  name: '2|🇺🇸_US_美国 #2'
-  network: ws
-  port: 34053
-  server: us-sanfrancisco-02.t3csyun.buzz
-  tls: false
-  type: vmess
-  uuid: 6d3404ef-27c6-48de-a83a-8ac6488760b4
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '2|🇺🇸_US_美国 #3'
-  network: ws
-  port: 8080
-  server: 148.135.40.190
-  tls: false
-  type: vmess
-  uuid: f6c4905b-0308-4164-b1ad-4157531a8378
-  ws-opts: {}
-- alterId: 0
-  cipher: auto
-  name: '3,17|🇺🇸_US_美国 #20'
+  name: '3,17|🇺🇸_US_美国 #16'
   network: ws
   port: 2082
   server: cfcdn1.sanfencdn9.com
@@ -217,7 +171,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3,17|🇺🇸_US_美国 #21'
+  name: '3,17|🇺🇸_US_美国 #17'
   network: ws
   port: 2086
   server: 104.19.32.46
@@ -227,7 +181,7 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: '3,17|🇺🇸_US_美国 #22'
+  name: '3,17|🇺🇸_US_美国 #18'
   network: ws
   port: 8080
   server: russia.com
@@ -237,37 +191,11 @@ proxies:
   ws-opts: {}
 - alterId: 0
   cipher: auto
-  name: 11|2|🇺🇸9 |  2.2MB/s|0%|Openai
-  network: ws
-  port: 443
-  server: gs03-1.guoshi1520.com
-  servername: gs03-1.guoshi1520.com
-  tls: true
-  type: vmess
-  uuid: 82ff6d30-2920-4ebd-b95c-b016ede1a841
-  ws-opts:
-    headers:
-      Host: gs03-1.guoshi1520.com
-    path: /82ff6d30
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇺🇸16 |  5.6MB/s|32%|Netflix|...
-  network: ws
-  port: '2096'
-  server: 141.101.120.253
-  tls: true
-  type: vmess
-  uuid: 381cb6d1-6ad4-4909-8494-b8d786cf78ce
-  ws-opts:
-    headers:
-      Host: 1746882891.speed.adl.cccp.freefly.pp.ua
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 11|2|🇺🇸57 |  5.8MB/s|0%|Openai|Ge...
+  name: 11|3|🇺🇸51 |  2.2MB/s|0%|Openai|Ge...
   network: ws
   port: 443
   server: xc132.meiziba5566.com
+  servername: xc132.meiziba5566.com
   tls: true
   type: vmess
   uuid: 28b33c85-3e14-4323-ed50-d6e4d4d773a8
@@ -277,10 +205,11 @@ proxies:
     path: /28b33c85
 - alterId: 0
   cipher: auto
-  name: 11|2|🇺🇸58 |  5.7MB/s|0%|Openai|Ge...
+  name: 11|3|🇺🇸128 |  3.8MB/s|0%|Openai
   network: ws
   port: 443
   server: xc133.meiziba5566.com
+  servername: xc133.meiziba5566.com
   tls: true
   type: vmess
   uuid: 268f7e36-625d-4fba-dc73-fb87cf90a104
@@ -288,15 +217,20 @@ proxies:
     headers:
       Host: xc133.meiziba5566.com
     path: /268f7e36
-- alterId: 64
+- alterId: 0
   cipher: auto
-  name: 11|2|🇺🇸60 |  3.2MB/s|17%|Openai
-  network: tcp
-  port: 40392
-  server: 120.232.153.123
-  tls: false
+  name: 11|3|🇺🇸59 |  2.1MB/s|32%|Openai
+  network: ws
+  port: 2096
+  server: 141.101.120.253
+  servername: 1746882891.speed.adl.cccp.freefly.pp.ua
+  tls: true
   type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  uuid: 381cb6d1-6ad4-4909-8494-b8d786cf78ce
+  ws-opts:
+    headers:
+      Host: 1746882891.speed.adl.cccp.freefly.pp.ua
+    path: /
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
