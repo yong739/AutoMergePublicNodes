@@ -18,21 +18,14 @@ proxies:
     path: /oooo
 - alterId: 0
   cipher: auto
-  client-fingerprint: chrome
-  name: '11,15,16|香港5|@ripaojiedian #1'
-  network: ws
-  port: '21791'
-  server: kf5uhgscrdl73kmihv8c.appsworld.shop
+  name: '11,16|香港3|@ripaojiedian #1'
+  network: tcp
+  port: '30485'
+  server: 103.224.80.67
   servername: ''
-  skip-cert-verify: false
-  tfo: false
   tls: false
   type: vmess
-  uuid: 3b14ba6e-786f-3b86-8bce-2803ea19b8cc
-  ws-opts:
-    headers:
-      Host: www.baidu.com
-    path: /cbf7f6acabd0dde4bef067580c126fed77a00de7
+  uuid: a9ba904e-2d8b-401e-9226-b5114c049f05
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 15|🇭🇰 香港2|@ripaojiedian
@@ -49,11 +42,16 @@ proxies:
   server: 103.103.245.158
   tfo: false
   type: ss
-- client-fingerprint: chrome
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   name: 15|🇺🇸 美国2|@ripaojiedian
   password: 253bc477d4e43c209f2d427272968280
-  port: 1572
-  server: 160.16.196.59
-  skip-cert-verify: false
-  sni: www.nintendogames.net
+  port: 2381
+  server: 36.156.102.84
+  skip-cert-verify: true
+  sni: fe2.update.microsoft.com
+  tfo: false
+  tls: false
   type: trojan
+  uuid: a9ba904e-2d8b-401e-9226-b5114c049f05
