@@ -3,7 +3,7 @@ proxies:
   cipher: auto
   name: '11,16|美国4|@ripaojiedian #1'
   network: tcp
-  port: '47083'
+  port: '47084'
   server: 124.236.46.114
   servername: ''
   tls: false

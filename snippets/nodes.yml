@@ -20,34 +20,17 @@ proxies:
   cipher: auto
   name: '11,16|香港3|@ripaojiedian #1'
   network: tcp
-  port: '58509'
-  server: 43.247.134.213
+  port: '42487'
+  server: 38.147.188.110
   servername: ''
   tls: false
   type: vmess
-  uuid: 7f75e117-5cfe-40b9-b18f-d46fa6add969
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: '11,15,16|新加坡4|@ripaojiedian #1'
-  network: ws
-  port: '30839'
-  server: v39.heduian.link
-  servername: ''
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
-  ws-opts:
-    headers:
-      Host: baidu.com
-    path: /oooo
+  uuid: f7ca451f-7adf-4af1-858a-196edb1af799
 - alterId: 0
   cipher: auto
   name: '11,16|美国4|@ripaojiedian #1'
   network: tcp
-  port: '47083'
+  port: '47084'
   server: 124.236.46.114
   servername: ''
   tls: false
@@ -206,7 +189,7 @@ proxies:
   client-fingerprint: chrome
   name: '15|🇺🇸 美国4|@ripaojiedian #1'
   password: BxceQaOe
-  port: 47083
+  port: 47084
   server: 124.236.46.114
   skip-cert-verify: false
   sni: www.nintendogames.net
